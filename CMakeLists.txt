@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(TheModernC++Challenge CXX)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+add_executable(001.out src/001/main.cc)
+add_executable(002.out src/002/main.cc)

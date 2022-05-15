@@ -1,5 +1,14 @@
+/**
+ * @file main.cc
+ * @brief 3と5で割り切れる数の総和を計算する
+ */
 #include <iostream>
 
+/**
+ * @brief メイン関数
+ * 
+ * @return int 
+ */
 int main()
 {
     using namespace std;
