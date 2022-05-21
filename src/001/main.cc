@@ -1,13 +1,14 @@
 /**
  * @file main.cc
- * @brief 3と5で割り切れる数の総和を計算する
+ * @brief 3または5で割り切れる正の整数の総和
+ * @details 与えられた上限までの3または5で割り切れる正の整数の総和を計算して出力するプログラムを書きなさい
  */
 #include <iostream>
 
 /**
  * @brief メイン関数
- * 
- * @return int 
+ *
+ * @return int
  */
 int main()
 {

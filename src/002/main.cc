@@ -1,3 +1,8 @@
+/**
+ * @file main.cc
+ * @brief  最大公約数
+ * @details 与えられた2個の正の整数の最大公約数を計算して出力するプログラムを書きなさい。
+ */
 #include <iostream>
 #include <vector>
 #include <algorithm>
